@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[atz:home|Door43 (atz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-atz|d43-atz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-atz/archive/master.zip|d43-atz.zip]]
+
+**Recent Changes**
+{{changes>ns = atz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/atz|Ethnologue data]]
+
